@@ -26,6 +26,9 @@ This project was created as an internal tool to provide an easy solution for com
   </Markdown>
 ```
 
-## results
+## rendered results
+![icons](https://github.com/alanuecker/react-easy-markdown/blob/master/examples/icons.png)
+![tabs](https://github.com/alanuecker/react-easy-markdown/blob/master/examples/tab.png)
+
 
 note: for some reasons MarkdownIt did not want to accept the `highlight` option so prism did not work
