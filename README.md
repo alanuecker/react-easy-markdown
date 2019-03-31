@@ -1,5 +1,7 @@
+# React Easy Markdown
 This project was created as an internal tool to provide an easy solution for component documentation. The Playground provides simple interactivity and gives everyone a chance to understand the props.
 
+## code
 ```jsx
   <Markdown>
     {`
@@ -23,5 +25,7 @@ This project was created as an internal tool to provide an easy solution for com
     />
   </Markdown>
 ```
+
+## results
 
 note: for some reasons MarkdownIt did not want to accept the `highlight` option so prism did not work
